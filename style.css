@@ -50,3 +50,7 @@ tr {
 table {
     border-collapse: collapse;
 }
+
+.listitem {
+    display: inline-block;
+}
